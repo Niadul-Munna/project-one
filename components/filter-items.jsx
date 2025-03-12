@@ -13,6 +13,14 @@ const FilterItems = () => {
     "Cherry",
     "Plum",
     "Kiwi",
+    "Blueberry",
+    "Raspberry",
+    "Lemon",
+    "Lime",
+    "Grapefruit",
+    "Tangerine",
+    "Pomelo",
+    "Pomegranate",
   ];
   const [fruitsData, setFruitsData] = useState(fruits);
   const [searchTerm, setSearchTerm] = useState("");
